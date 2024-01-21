@@ -56,5 +56,6 @@ foreach ($insertData as $data) {
 
 
 $conn->close();
+phpinfo();
 ?>
 <a href="display.php">View Job Seekers</a>
